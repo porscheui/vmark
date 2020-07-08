@@ -1,6 +1,6 @@
 {
-  "name": "vmark",
-  "version": "1.0.2",
+  "name": "@porsche-design-system/vmark",
+  "version": "1.2.0",
   "description": "Convert markdown to vue component.",
   "repository": {
     "url": "egoist/vmark",
